@@ -94,33 +94,33 @@ Supply_Chain_Project_DEPI
 
 # 📊 Dashboard Preview
 
-## Executive Overview
+## 📌 Executive Overview
 
-> *(Add Executive Overview dashboard image here)*
-
----
-
-## Financial Performance
-
-> *(Add Financial Performance dashboard image here)*
+![Executive Overview](Dashboard%20Images%20and%20Demo/executive-overview.png)
 
 ---
 
-## Product & Inventory
+## 💰 Finance Analysis
 
-> *(Add Product & Inventory dashboard image here)*
-
----
-
-## Supplier Performance
-
-> *(Add Supplier Performance dashboard image here)*
+![Finance Analysis](Dashboard%20Images%20and%20Demo/finance-analysis.png)
 
 ---
 
-## Logistics & Carrier Performance
+## 📦 Product & Inventory Analysis
 
-> *(Add Logistics dashboard image here)*
+![Product & Inventory Analysis](Dashboard%20Images%20and%20Demo/product-inventory.png)
+
+---
+
+## 🤝 Supplier Performance
+
+![Supplier Performance](Dashboard%20Images%20and%20Demo/supplier-performance.png)
+
+---
+
+## 🚚 Logistics & Carrier Performance
+
+![Logistics & Carrier Performance](Dashboard%20Images%20and%20Demo/logistics-carriers.png)
 
 ---
 
