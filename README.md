@@ -126,12 +126,25 @@ Supply_Chain_Project_DEPI
 
 # 🎥 Project Demo
 
-Watch the complete project demonstration here:
+Watch the complete interactive dashboard demonstration:
 
-[![Watch Demo](https://img.shields.io/badge/▶️%20Watch%20Demo-Google%20Drive-blue?style=for-the-badge)](https://drive.google.com/file/d/1OBa5FlkvgLxJ7_foqzsPdJ3TIsAAwu3X/view?usp=sharing)
+<p align="center">
+  <a href="https://drive.google.com/file/d/1OBa5FlkvgLxJ7_foqzsPdJ3TIsAAwu3X/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/▶️%20Watch%20Demo-Google%20Drive-0F9D58?style=for-the-badge&logo=google-drive&logoColor=white">
+  </a>
+</p>
 
-Or click here:
-https://drive.google.com/file/d/1OBa5FlkvgLxJ7_foqzsPdJ3TIsAAwu3X/view?usp=sharing
+---
+
+# 📑 Project Presentation
+
+View or download the project presentation:
+
+<p align="center">
+  <a href="https://docs.google.com/presentation/d/10yZI3NCcYeB7ERaN5lmiRyXKkIUhyoPJ/edit?usp=sharing&ouid=117162873476766643102&rtpof=true&sd=true" target="_blank">
+    <img src="https://img.shields.io/badge/📊%20Presentation-Google%20Slides-FBBC04?style=for-the-badge&logo=google-slides&logoColor=black">
+  </a>
+</p>
 
 ---
 
