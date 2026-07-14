@@ -124,6 +124,17 @@ Supply_Chain_Project_DEPI
 
 ---
 
+# 🎥 Project Demo
+
+Watch the complete project demonstration here:
+
+[![Watch Demo](https://img.shields.io/badge/▶️%20Watch%20Demo-Google%20Drive-blue?style=for-the-badge)](https://drive.google.com/file/d/1OBa5FlkvgLxJ7_foqzsPdJ3TIsAAwu3X/view?usp=sharing)
+
+Or click here:
+https://drive.google.com/file/d/1OBa5FlkvgLxJ7_foqzsPdJ3TIsAAwu3X/view?usp=sharing
+
+---
+
 # 📈 Key Performance Indicators (KPIs)
 
 - Total Revenue
