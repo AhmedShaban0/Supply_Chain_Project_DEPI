@@ -167,7 +167,7 @@ Supply_Chain_Project_DEPI
 Data Analytics Trainee – Digital Egypt Pioneers Initiative (DEPI)
 
 - GitHub: https://github.com/AhmedShaban0
-- LinkedIn: [*(Add your LinkedIn profile link here)*](https://www.linkedin.com/in/ahmedshaban0/)*]
+- LinkedIn: [*(LinkedIn profile link here)*](https://www.linkedin.com/in/ahmedshaban0/)*]
 
 ---
 
