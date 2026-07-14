@@ -1,16 +1,3 @@
-<p align="center">
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
-
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
-
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white">
-
-<img src="https://img.shields.io/badge/DEPI-Data%20Analytics-success?style=for-the-badge">
-
-</p>
 # 📦 Supply Chain Analytics Project
 
 > End-to-End Supply Chain Analytics Project using **Excel, SQL, Python, and Tableau** developed as part of the **Digital Egypt Pioneers Initiative (DEPI) – Data Analytics Track**.
