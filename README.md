@@ -2,6 +2,10 @@
 
 > End-to-End Supply Chain Analytics Project using **Excel, SQL, Python, and Tableau** developed as part of the **Digital Egypt Pioneers Initiative (DEPI) – Data Analytics Track**.
 
+<p align="center">
+  <img src="Dashboard%20Images%20and%20Demo/supply-chain-analytics-overview.png" alt="Supply Chain Analytics Overview" width="100%">
+</p>
+
 ---
 
 ## 📖 Project Overview
